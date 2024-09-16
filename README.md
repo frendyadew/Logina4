@@ -1,4 +1,4 @@
-# Aplikasi Login dan Registrasi
+# Aplikasi Login dan Registrasi Acara 4 PGPB
 
 Ini adalah proyek aplikasi Android sederhana yang menyediakan fitur login, registrasi, dan halaman utama untuk pengguna. Proyek ini dikembangkan menggunakan **Android Studio** dengan **Empty Views Activity**. Aplikasi ini memiliki tiga halaman utama: Halaman Login, Halaman Registrasi, dan Halaman Utama.
 
